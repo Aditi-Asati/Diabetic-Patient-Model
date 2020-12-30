@@ -1,2 +1,2 @@
-# Machine-Learning
+# Diabetic-Patient-Model
 A machine learning model prepared with the aid of powerful libraries such as numpy, pandas, scikit-learn etc. It predicts whether a person is diabetic or not, depending on factors like BMI,Blood Pressure, Insulin levels etc. The model has been trained using the data from "diabetic_data.csv" (link provided in the repo). It employs 6 distinct classification algorithms for the purpose of prediction with "Random Forest Classifier" being the one with optimum accuracy.
