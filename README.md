@@ -1,2 +1,2 @@
 # Machine-Learning
-A machine learning model prepared with the library scikit-learn. It predicts whether a person is diabetic or not, depending on factors like BMI etc. It has learnt from the diabetic_data.csv (find it in the repo). It has 6 different and unique algorithms for prediction.
+A machine learning model prepared with the aid of powerful libraries such as numpy, pandas, scikit-learn etc. It predicts whether a person is diabetic or not, depending on factors like BMI,Blood Pressure, Insulin levels etc. The model has been trained using the data from "diabetic_data.csv" (link provided in the repo). It employs 6 distinct classification algorithms for the purpose of prediction with "Random Forest Classifier" being the one with optimum accuracy.
